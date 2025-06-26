@@ -1,5 +1,5 @@
 {
-  "name": "games-wabot",
+  "name": "Kiba-bot",
   "version": "0.9.8",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -26,16 +26,16 @@
     "Games-wabot",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/BochilGaming/games-wabot",
+  "homepage": "https://github.com/kibagames/games-wabot",
   "author": {
-    "name": "BochilGaming"
+    "name": "KibaGames"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BochilGaming/games-wabot.git"
+    "url": "git+https://github.com/kibagames/games-wabot.git"
   },
   "bugs": {
-    "url": "https://github.com/BochilGaming/games-wabot/issues"
+    "url": "https://github.com/kibagames/games-wabot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
